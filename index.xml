@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Chapter VI: Esmeralda</title>
+      <link>https://hungaricus.github.io/adlibrum-ananke/post/new0531/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://hungaricus.github.io/adlibrum-ananke/post/new0531/</guid>
+      <description>Hands-on experience with Hugo as a static site generator A while ago – in April 2015 – we launched bugtrackers.io as a small side project. Since then, the site has grown from a three-pager to a website with dozens of interviews.
+The increasing number of pages &amp;amp; therefore line of code made us look for ways to improve our internal workflow.
+We also ended up using GoHugo as our main website framework for bugtrackers.</description>
+    </item>
+    
+    <item>
       <title>Chapter V: Quasimodo</title>
       <link>https://hungaricus.github.io/adlibrum-ananke/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
